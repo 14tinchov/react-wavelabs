@@ -7,7 +7,7 @@ const Header = () => {
     <Navbar className='navbar-wrapper'>
       <Navbar.Header>
         <Navbar.Brand>
-          <a href="#home">Race Commerce</a>
+          <a href="#home">Race Cars Commerce</a>
         </Navbar.Brand>
       </Navbar.Header>
     </Navbar>
