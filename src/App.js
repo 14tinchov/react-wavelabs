@@ -5,7 +5,6 @@ import './App.css';
 import Header from './components/header/Header';
 import ProductView from './components/product_view/ProductView';
 
-
 class App extends Component {
   render() {
     return (
